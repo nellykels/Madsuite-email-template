@@ -1,0 +1,316 @@
+.container{
+    max-width: 809px;
+    margin: 0 auto;
+    
+    background-color: #f4f4f4;
+    
+  height: 2690px;
+}
+body{
+    font-family: Helvetic;
+    
+}
+
+.header{
+    display: flex;
+    width: 809px;
+    height: 99px;
+    background-color: #ffffff;
+    
+}
+.logo{
+    margin-left: 34px;
+    margin-top: 25px;
+    margin-bottom: 24px;
+}
+.lets-talk{
+    margin-left: 450px;
+    margin-top: 41px;
+    margin-bottom: 40px;
+    margin-right: 36px;
+    width: 98px;
+  height: 19px;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #002b4c;
+  font-family: Montserrat;
+  font-weight: 600;
+  
+}
+.heading{
+    background-image: url('../images/fill-1@2x.png');
+    width: 809px;
+  height: 436px;
+  object-fit: contain;
+  
+  padding-top: 50px;
+  position: relative;
+  
+  
+ 
+}
+.big-text{
+  width: 256px;
+  height: 115px;
+  font-family: HelveticaNeue;
+  font-size: 48px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  margin-left: 38px;
+  margin-bottom: 20px;
+  
+
+  
+}
+.stripe{
+  background-image: url('../images/mask.jpg');
+  position: relative;
+ 
+}
+.content-box{
+        width: 739px;
+        height: 390px;
+        box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.25);
+        background-color: #ffffff;
+        position: absolute;
+        margin-top: -250px;
+        margin-left: 35px;
+}
+.content-box h2{
+        width: 104px;
+        height: 28px;
+        font-family: HelveticaNeue;
+        font-size: 25px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+        margin-left: 50px;
+        margin-top: 50px;
+      
+}
+.content-box p{
+    width: 623px;
+  height: 136px;
+  font-family: HelveticaNeue;
+  font-size: 18px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin-left: 50px;
+  
+}
+.content-box2{
+    display: flex;
+    margin-left: 50px;
+}
+.speak{
+  width: 138px;
+  height: 22px;
+  font-family: HelveticaNeue;
+  font-size: 18px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0091ff;
+}
+.cto{
+  font-weight: normal;
+}
+
+.portfolio{
+        
+        
+      }
+.portfolio h1{
+    padding-top: 200px;
+    width: 263px;
+  height: 43px;
+  font-family: HelveticaNeue;
+  font-size: 36px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #002b4c;
+  margin-left: 36px;
+  margin-bottom: 50px;
+}
+.work h1{
+  width: 263px;
+  height: 43px;
+  font-family: HelveticaNeue;
+  font-size: 36px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #002b4c;
+  margin-left: 36px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+ul{
+    list-style-type: none;
+   }
+ul li{
+    font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #394247;
+  
+}
+ul li a{
+  font-family: HelveticaNeue;
+  font-size: 18px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0091ff;
+  text-decoration: none;
+}
+.grid{
+    display: flex;
+
+}
+.branding{
+  width: 360px;
+  height: 464px;
+  background-color: #ffffff;
+  padding-right: 200px;
+  margin-left: 35px;
+}
+.brand-head{
+  width: 91px;
+  height: 25px;
+  font-family: HelveticaNeue;
+  font-size: 21px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0091ff;
+  margin-left: 37px;
+  margin-top: 30px;
+}
+.app-head{
+  width: 52px;
+  height: 25px;
+  font-family: HelveticaNeue;
+  font-size: 21px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0091ff;
+  margin-left: 37px;
+  padding-top: 30px;
+}
+.design-head{
+  width: 229px;
+  height: 25px;
+  font-family: HelveticaNeue;
+  font-size: 21px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0091ff;
+  margin-left: 37px;
+  padding-top: 30px;
+  
+}
+.Apps, .Design{
+        width: 360px;
+        height: 222px;
+        background-color: #ffffff;
+        margin-left: 19px;
+        margin-right: 35px;
+}
+.second-row{
+  margin-top: -22px;
+}
+.images{
+    display: flex;
+}
+.footer{
+    width: 741px;
+    height: 323px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    margin-left: 34px;
+    margin-right: 32px;
+    margin-top: 40px;
+  
+}
+
+.socials{
+  display: flex;
+  text-align: center;
+  margin-left: 180px;
+  padding-top: 40px;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #394247;
+  font-family: Montserrat;
+  font-weight: 600;
+}
+.instagram{
+  margin-left: 40px;
+}
+.facebook{
+  margin-left: 40px;
+}
+.copyright{
+  margin-top: 50px;
+  width: 641px;
+  height: 33px;
+  font-family: HelveticaNeue;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #394247;
+  margin-left: 30px;
+}
+.logo-image{
+  width: 347px;
+  height: 92px;
+  object-fit: contain;
+  align-content: center;
+  margin-left: 200px;
+  margin-top: 30px;
+}
